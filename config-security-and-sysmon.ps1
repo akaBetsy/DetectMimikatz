@@ -42,7 +42,7 @@ if (-not (Get-Command sysmon64 -ErrorAction SilentlyContinue)) {
 }
 
 # Apply Sysmon configuration
-sysmon -accepteula -i config-sysmon64.xml
-sc start sysmon64
+sysmon -accepteula -i config-sysmon.xml
+sc start sysmon
 
 echo "Sysmon is now configured to detect Mimikatz activity. Check Event Viewer > Applications and Services Logs > Microsoft > Windows > Sysmon."
