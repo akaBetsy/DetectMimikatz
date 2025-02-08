@@ -1,0 +1,818 @@
+[
+    {
+        "Timestamp": "Sat Feb  8 14:43:06 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:42:47 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:42:46 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:42:42 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:42:41 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:42:14 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T13:42:14Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:41:43 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:02 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:00 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:58 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:56 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:54 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:39 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:37 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:35 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:16 2025",
+        "EventID": 903,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:34:16 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T13:34:16Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:53 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:52 2025",
+        "EventID": 1,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:51 2025",
+        "EventID": 902,
+        "RuleName": "No RuleName Assigned",
+        "Message": "10.0.19041.4291"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:51 2025",
+        "EventID": 1003,
+        "RuleName": "No RuleName Assigned",
+        "Message": "55c92734-d682-4d71-983e-d6ec3f16059f \n1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n3: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n4: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n5: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n6: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n7: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n8: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n9: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n10: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n11: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n12: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n13: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n14: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n15: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n16: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n17: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n18: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]\n19: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n20: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n21: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n22: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n23: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n24: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n25: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n26: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n27: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n28: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n29: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n30: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n31: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n32: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n33: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n34: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n35: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n36: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n37: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n38: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n39: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n40: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n41: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n42: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n43: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n44: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n45: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n46: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n47: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n48: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n49: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n50: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n51: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]\n\n"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:51 2025",
+        "EventID": 1066,
+        "RuleName": "No RuleName Assigned",
+        "Message": "C:\\Windows\\system32\\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000\nC:\\Windows\\system32\\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000\n"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:51 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:51 2025",
+        "EventID": 900,
+        "RuleName": "No RuleName Assigned",
+        "Message": "<explicit>"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:33:50 2025",
+        "EventID": 0,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Service stopped"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:26 2025",
+        "EventID": 1003,
+        "RuleName": "No RuleName Assigned",
+        "Message": "\n"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:26 2025",
+        "EventID": 326,
+        "RuleName": "No RuleName Assigned",
+        "Message": "SearchIndexer 2064,D,50 Windows:  1 C:\\ProgramData\\Microsoft\\Search\\Data\\Applications\\Windows\\Windows.edb 0 \n[1] 0.000002 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)\n[2] 0.000992 -0.000371 (1) WT +J(0) +M(C:0K, Fs:24, WS:32K # 0K, PF:32K # 0K, P:32K)\n[3] 0.019442 -0.012676 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:107, WS:392K # 0K, PF:160K # 0K, P:160K)\n[4] 0.000079 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)\n[5] -\n[6] -\n[7] -\n[8] 0.001674 -0.001429 (2) CM +J(CM:2, PgRf:2, Rd:14/2, Dy:0/0, Lg:54/1) +M(C:0K, Fs:50, WS:200K # 0K, PF:680K # 0K, P:680K)\n[9] 0.012359 -0.000371 (5) CM -0.011217 (1) WT +J(CM:5, PgRf:23, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:0K, Fs:127, WS:508K # 456K, PF:308K # 216K, P:308K)\n[10] 0.000358 -0.000262 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:10, WS:40K # 40K, PF:96K # 96K, P:96K)\n[11] 0.000020 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K)\n[12] 0.000024 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K)\n[13] 0.0 +J(0)\n[14] 0.0 +J(0)\n[15] 0.000002 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0). 0 0 lgposAttach = 0000002A:0022:0268,\ndbv = 1568.110.240"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:26 2025",
+        "EventID": 105,
+        "RuleName": "No RuleName Assigned",
+        "Message": "SearchIndexer 2064,D,0 Windows:  0 0 \n[1] 0.001064 +J(0) +M(C:0K, Fs:213, WS:832K # 832K, PF:5000K # 5000K, P:5000K)\n[2] 0.000164 +J(0) +M(C:0K, Fs:124, WS:496K # 496K, PF:396K # 396K, P:396K)\n[3] 0.000383 +J(0) +M(C:0K, Fs:11, WS:40K # 40K, PF:68K # 68K, P:68K)\n[4] 0.000083 +J(0) +M(C:0K, Fs:27, WS:104K # 104K, PF:360K # 360K, P:360K)\n[5] 0.000848 +J(0) +M(C:0K, Fs:10, WS:40K # 40K, PF:20K # 20K, P:20K)\n[6] 0.004387 +J(0) +M(C:0K, Fs:21, WS:84K # 84K, PF:12K # 12K, P:12K)\n[7] 0.007862 -0.005718 (2) WT +J(0) +M(C:0K, Fs:273, WS:1092K # 1092K, PF:1028K # 1028K, P:1028K)\n[8] -\n[9] -\n[10] -\n[11] -\n[12] -\n[13] 0.019298 -0.000001 (1) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:9, WS:-996K # 28K, PF:-1020K # 12K, P:-1020K)\n[14] 0.000020 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)\n[15] 0.000054 +J(0) +M(C:0K, Fs:65, WS:260K # 0K, PF:64K # 0K, P:64K)\n[16] 0.000367 -0.000001 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K). "
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:25 2025",
+        "EventID": 102,
+        "RuleName": "No RuleName Assigned",
+        "Message": "SearchIndexer 2064,P,98 Windows:  0 10 00 19045 0000"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:24 2025",
+        "EventID": 5617,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:21 2025",
+        "EventID": 5615,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:20 2025",
+        "EventID": 1531,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:31:21 2025",
+        "EventID": 4625,
+        "RuleName": "No RuleName Assigned",
+        "Message": "86400 SuppressDuplicateDuration Software\\Microsoft\\EventSystem\\EventLog"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:36 2025",
+        "EventID": 1532,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:35 2025",
+        "EventID": 6000,
+        "RuleName": "No RuleName Assigned",
+        "Message": "WSearch"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:03 2025",
+        "EventID": 0,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Service stopped successfully."
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:27:18 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T13:27:18Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:53 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:05 2025",
+        "EventID": 10001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1 2025-02-08T13:26:05.0403757Z"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:05 2025",
+        "EventID": 10000,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1 2025-02-08T13:26:05.0403757Z"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:00 2025",
+        "EventID": 10001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1 2025-02-08T13:26:00.5693364Z"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:00 2025",
+        "EventID": 10000,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1 2025-02-08T13:26:00.5693364Z"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:24:26 2025",
+        "EventID": 8224,
+        "RuleName": "No RuleName Assigned",
+        "Message": ""
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:20:29 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2176420502114285344 5 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2F7B.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363_1ee9c948dfb297fa6ec9229647d6ed9a3f5d6296_00000000_cebdde6e-44ff-4604-a21d-a62a8df34f78  0 cebdde6e-44ff-4604-a21d-a62a8df34f78 268435456 358d712b9378619c7e3432ea5e663720 0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:20:23 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250207191744.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\inf\\setupapi.dev.log   0 cebdde6e-44ff-4604-a21d-a62a8df34f78 262148  0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:20:23 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU  \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363_1ee9c948dfb297fa6ec9229647d6ed9a3f5d6296_00000000_cebdde6e-44ff-4604-a21d-a62a8df34f78  0 cebdde6e-44ff-4604-a21d-a62a8df34f78 4  0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:14:51 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T13:14:51Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:14:24 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1376495093961633295 5 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x6bcc9674     \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3545.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363__ae56d262e27c90ae38fa8f9f4a793f906bbf8c4a_00000000_a2414165-8646-4983-8b31-63cc54813847  0 a2414165-8646-4983-8b31-63cc54813847 268435456 7027053310023cc0d31a4afeb6a6ae0f 0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:14:22 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x6bcc9674     \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250207191744.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\Logs\\Cbs\\FilterList.log   0 a2414165-8646-4983-8b31-63cc54813847 262148  0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:14:22 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x6bcc9674      \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363__ae56d262e27c90ae38fa8f9f4a793f906bbf8c4a_00000000_a2414165-8646-4983-8b31-63cc54813847  0 a2414165-8646-4983-8b31-63cc54813847 4  0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:14:15 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:33:34 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1486700424868029242 5 RADAR_PRE_LEAK_64 Not available 0 python.exe 3.13.1150.1013 10.0.19045.2.0.0        \r\n\\\\?\\C:\\Users\\FAKEAD~1\\AppData\\Local\\Temp\\RDR9AF0.tmp\\empty.txt\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA070.tmp.WERInternalMetadata.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA10D.tmp.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA1A4.tmp.csv\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA1F3.tmp.txt   0 16baec9e-b805-4fb9-8ca5-d3d4cd0897e2 268435456 ce0a6e377cd66be114a1d228d7ae633a 0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:25:46 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T12:25:46Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:25:27 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:03:01 2025",
+        "EventID": 9027,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:03:00 2025",
+        "EventID": 0,
+        "RuleName": "No RuleName Assigned",
+        "Message": "0x8898009b 1 VirtualBox Graphics Adapter (WDDM)"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:03:00 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1852614573702844416 4 APPCRASH Not available 0 dwm.exe 10.0.19041.3636 6e55ef4a KERNELBASE.dll 10.0.19041.4291 a956ff71 8898009b 000000000012dca2   \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD62A.tmp.dmp\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD6D6.tmp.WERInternalMetadata.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD6F7.tmp.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD714.tmp.csv\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD734.tmp.txt \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_dwm.exe_c2a913c6dc7d28e4518584b537e5c68dc0a077_a5e01898_637536d8-b7b5-4c9a-ac85-a5434342090b  0 f2cb660e-94ea-49de-a029-d9008d6bdb56 268435456 dc3ad4f655ec7b60a9b5cf23a3451000 0"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:02:56 2025",
+        "EventID": 1000,
+        "RuleName": "No RuleName Assigned",
+        "Message": "dwm.exe 10.0.19041.3636 6e55ef4a KERNELBASE.dll 10.0.19041.4291 a956ff71 8898009b 000000000012dca2 180 01db7724a22a225a C:\\Windows\\system32\\dwm.exe C:\\Windows\\System32\\KERNELBASE.dll f2cb660e-94ea-49de-a029-d9008d6bdb56  "
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:40:03 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:40:02 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:37:20 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T11:37:20Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:36:34 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:37:16 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:34:17 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:26:34 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:18:17 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:17:24 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:17:21 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:17:18 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:17:15 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:16:59 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:16:56 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 09:16:53 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:48:16 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:39:31 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:38:25 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T07:38:25Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:58 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:48 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:46 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:45 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:44 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:37:39 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:14:04 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:13:44 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-15T07:13:44Z RulesEngine"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:12:46 2025",
+        "EventID": 0,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Service stopped"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:12:44 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Sat Feb  8 08:11:41 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:53:04 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:53:01 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:12 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:11 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:09 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:08 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_SNOOZED"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:05 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 23:50:03 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 22:55:32 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 22:55:01 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 21:39:52 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 21:38:38 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:24:00 2025",
+        "EventID": 8224,
+        "RuleName": "No RuleName Assigned",
+        "Message": ""
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:22:59 2025",
+        "EventID": 258,
+        "RuleName": "No RuleName Assigned",
+        "Message": "boot optimisation (C:)"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:21:38 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:20:55 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:20:55Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:19:51 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2067633861167288226 5 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x81de4625     \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER125D.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363__331c2056315b7fc9e82dc626546fc5dde2b25bd6_00000000_2a88259b-b77a-47c1-a3bc-a95a8c11d2a0  0 2a88259b-b77a-47c1-a3bc-a95a8c11d2a0 268435456 c1aea6a5bd5f293e1cb1b60abc720fa2 0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:19:49 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x81de4625     \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250207191744.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\Logs\\Cbs\\FilterList.log   0 2a88259b-b77a-47c1-a3bc-a95a8c11d2a0 262148  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:19:49 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0x81de4625      \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363__331c2056315b7fc9e82dc626546fc5dde2b25bd6_00000000_2a88259b-b77a-47c1-a3bc-a95a8c11d2a0  0 2a88259b-b77a-47c1-a3bc-a95a8c11d2a0 4  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:19:39 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:18:54 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:18:54Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:18:22 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:18:15 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:18:15Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:17:53 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:17:51 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:15:07 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1363624051016666339 5 RADAR_PRE_LEAK_64 Not available 0 SearchApp.exe 10.0.19041.4239 10.0.19045.2.0.0        \r\n\\\\?\\C:\\Users\\FAKEAD~1\\AppData\\Local\\Temp\\RDRA406.tmp\\empty.txt\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA426.tmp.WERInternalMetadata.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA437.tmp.xml\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA4B2.tmp.csv\r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA4F1.tmp.txt   0 2db9c0ba-6334-4c2c-ad3a-a4c6dc6681f2 268435456 372c710ca1a781c462ec90d980070ce3 0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:10:04 2025",
+        "EventID": 8224,
+        "RuleName": "No RuleName Assigned",
+        "Message": ""
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:09:55 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:09:55Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:09:09 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:08:02 2025",
+        "EventID": 15,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Windows Defender SECURITY_PRODUCT_STATE_ON"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:06:34 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2176420502114285344 5 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2A54.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363_1ee9c948dfb297fa6ec9229647d6ed9a3f5d6296_00000000_a6af0b1e-0016-4ff9-88f4-042939065103  0 a6af0b1e-0016-4ff9-88f4-042939065103 268435456 358d712b9378619c7e3432ea5e663720 0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:06:18 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:06:18Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:06:18 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.cab\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\inf\\setupapi.dev.log   0 a6af0b1e-0016-4ff9-88f4-042939065103 262148  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:06:18 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_RollupFix 19041.5371.1.9 amd64 unknown 8007371c Execute Staged Installed UpdateAgentLCU  \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363_1ee9c948dfb297fa6ec9229647d6ed9a3f5d6296_00000000_a6af0b1e-0016-4ff9-88f4-042939065103  0 a6af0b1e-0016-4ff9-88f4-042939065103 4  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:05:59 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:05:05 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:05:05Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:04:40 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:02:25 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T19:01:25Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:01:40 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    },
+    {
+        "Timestamp": "Fri Feb  7 20:00:29 2025",
+        "EventID": 8224,
+        "RuleName": "No RuleName Assigned",
+        "Message": ""
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:59:39 2025",
+        "EventID": 16384,
+        "RuleName": "No RuleName Assigned",
+        "Message": "2125-01-14T18:59:39Z RulesEngine"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:55 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1247210435830963554 5 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_DotNetRollup_481 10.0.9294.1 amd64 unknown 800703f1 Execute Staged Installed WindowsUpdateAgent \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER354D.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363_96d9a36cd21f08f2edcb60b54cbc87e0ce119_00000000_43e0c376-ea3a-40ba-89db-13eec93cee90  0 43e0c376-ea3a-40ba-89db-13eec93cee90 268435456 bd29f33bb961b873f14efb488bdd5d62 0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:54 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": "1353366474193526089 5 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0xb233cd60     \r\n\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2EC4.tmp.WERInternalMetadata.xml \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.19041.5363__79af742d6dc3e78f4f6429a84dd34f7ed0c831_00000000_475b3a41-a04a-495a-825a-7cc1ab0ab91d  0 475b3a41-a04a-495a-825a-7cc1ab0ab91d 268435456 6eda93342dbf6555e2c81fa3493a5d49 0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:52 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_DotNetRollup_481 10.0.9294.1 amd64 unknown 800703f1 Execute Staged Installed WindowsUpdateAgent \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\inf\\setupapi.dev.log   0 43e0c376-ea3a-40ba-89db-13eec93cee90 262148  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:52 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 CbsPackageServicingFailure2 Not available 0 10.0.19041.5363 Package_for_DotNetRollup_481 10.0.9294.1 amd64 unknown 800703f1 Execute Staged Installed WindowsUpdateAgent  \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363_96d9a36cd21f08f2edcb60b54cbc87e0ce119_00000000_43e0c376-ea3a-40ba-89db-13eec93cee90  0 43e0c376-ea3a-40ba-89db-13eec93cee90 4  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:51 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0xb233cd60     \r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CBS.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204091310.log\r\n\\\\?\\C:\\Windows\\Logs\\CBS\\CbsPersist_20250204080556.cab\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\Sessions.xml\r\n\\\\?\\C:\\Windows\\servicing\\Sessions\\31160721_4281654117.xml\r\n\\\\?\\C:\\Windows\\Logs\\Cbs\\FilterList.log   0 475b3a41-a04a-495a-825a-7cc1ab0ab91d 262148  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:51 2025",
+        "EventID": 1001,
+        "RuleName": "No RuleName Assigned",
+        "Message": " 0 WindowsWcpOtherFailure3 Not available 0 10.0.19041.5363:1 wcp\\componentstore\\com\\store.cpp Windows::COM::CComponentStore::MountSMISchemaHive 5307 c00703f1 0xb233cd60      \\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.19041.5363__79af742d6dc3e78f4f6429a84dd34f7ed0c831_00000000_475b3a41-a04a-495a-825a-7cc1ab0ab91d  0 475b3a41-a04a-495a-825a-7cc1ab0ab91d 4  0"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:23 2025",
+        "EventID": 0,
+        "RuleName": "No RuleName Assigned",
+        "Message": "Service stopped"
+    },
+    {
+        "Timestamp": "Fri Feb  7 19:56:08 2025",
+        "EventID": 16394,
+        "RuleName": "No RuleName Assigned",
+        "Message": "No Event Data"
+    }
+]

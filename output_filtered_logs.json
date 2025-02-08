@@ -1,0 +1,534 @@
+[
+    {
+        "Timestamp": "Sat Feb  8 14:48:14 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x193c C:\\temp\\mimikatz.exe %%1937 0xd44  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:48:02 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0xdbc C:\\temp\\mimikatz.exe %%1937 0x1d04  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:44:24 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x9b4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:44:24 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x9b4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:44:24 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x9b4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x1de0  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:44:16 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x970 C:\\temp\\mimikatz.exe %%1937 0x178c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:41:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x1428 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:41:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x1428 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:41:51 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x1428 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x1694  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:41:46 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x1994 C:\\temp\\mimikatz.exe %%1937 0x1900  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:37:55 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x648 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:37:55 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x648 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:37:55 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x648 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x1e28  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:16 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x198 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:16 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 Security - SeTcbPrivilege 0x198 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:16 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0x198 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0xef4  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:35:10 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0xc5359 0xff8 C:\\temp\\mimikatz.exe %%1937 0x14bc  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:17 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x11e8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:17 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x11e8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:17 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x11e8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x2b80  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:29:12 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1330 C:\\temp\\mimikatz.exe %%1937 0x2818  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:50 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x2138 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:50 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x2138 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:50 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2138 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0xc60  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:26:45 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x48c C:\\temp\\mimikatz.exe %%1937 0x17e4  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:25:29 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0xdcc C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:25:29 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0xdcc C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:25:28 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xdcc C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x1c80  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:25:23 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x271c C:\\temp\\mimikatz.exe %%1937 0x277c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:19:42 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0xaa8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:19:42 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0xaa8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:19:42 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xaa8 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x23e4  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:19:38 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xcc4 C:\\temp\\mimikatz.exe %%1937 0x214c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:17:21 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x1f78 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:17:21 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x1f78 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:17:21 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1f78 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x19b4  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:17:06 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x16fc C:\\temp\\mimikatz.exe %%1937 0x1588  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:10:33 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x16b0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:10:33 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x16b0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:10:32 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x16b0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x157c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:10:18 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x14d4 C:\\temp\\mimikatz.exe %%1937 0x1b08  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:03:34 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x1c34 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:03:34 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x1c34 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:03:34 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1c34 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x27fc  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 14:03:03 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xdd8 C:\\temp\\mimikatz.exe %%1937 0xe00  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:58:06 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x29f0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:58:06 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x29f0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:58:06 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x29f0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x2368  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:57:44 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x10c4 C:\\temp\\mimikatz.exe %%1937 0x2044  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:53:47 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1140 C:\\temp\\mimikatz.exe %%1937 0x1f74  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:49:48 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x17c4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:49:48 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x17c4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:49:48 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x17c4 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x1588  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:49:38 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x257c C:\\temp\\mimikatz.exe %%1937 0x29d0  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:40:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x8d0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:40:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x8d0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:40:51 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x8d0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x2774  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:40:40 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x9ec C:\\temp\\mimikatz.exe %%1937 0x1d68  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:57 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x28e0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:57 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x28e0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:57 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x28e0 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0xe20  S-1-0-0 - - 0x0 C:\\Program Files\\Python313\\python.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x2368 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:51 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x2368 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:51 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2368 C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x224c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:29:37 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2b4 C:\\temp\\mimikatz.exe %%1937 0x6dc  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:11:22 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x223c C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:11:22 2025",
+        "EventID": 4673,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 Security - SeTcbPrivilege 0x223c C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe",
+        "MITRE Stage": "TA0004 - Privilege Escalation | T1548 - Abuse Elevation Control Mechanism"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:11:22 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x223c C:\\temp\\tools\\mimikatz_extracted\\x64\\mimikatz.exe %%1937 0x25ac  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:09:22 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2b9c C:\\temp\\mimikatz.exe %%1937 0x16cc  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 13:02:31 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xaf0 C:\\temp\\mimikatz.exe %%1937 0x2838  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:58:37 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2108 C:\\temp\\mimikatz.exe %%1937 0x1318  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:56:19 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x196c C:\\temp\\mimikatz.exe %%1937 0x530  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:51:40 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0xb6c C:\\temp\\mimikatz.exe %%1937 0x29b0  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:49:45 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1d70 C:\\temp\\mimikatz.exe %%1937 0x2628  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:43:14 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x2424 C:\\temp\\mimikatz.exe %%1937 0x237c  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    },
+    {
+        "Timestamp": "Sat Feb  8 12:39:21 2025",
+        "EventID": 4688,
+        "RuleName": "No RuleName Assigned",
+        "Message": "S-1-5-21-3704816349-2630934885-840893638-1006 fakeadmin WIN10CLIENT 0x1324d2 0x1340 C:\\temp\\mimikatz.exe %%1937 0x2ab4  S-1-0-0 - - 0x0 C:\\Windows\\System32\\cmd.exe S-1-16-12288",
+        "MITRE Stage": "TA0002 - Execution | T1569.002 - System Services"
+    }
+]
